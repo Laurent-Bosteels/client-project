@@ -30,6 +30,15 @@ OlaFresco needs a website for meal orders
 
 This website will look a lot like [hellofresh](https://hellofresh.com/)
 
+#### Project briefing
+[Project Briefing](https://github.com/Laurent-Bosteels/client-project/blob/main/project-briefing/project-briefing.pdf)
+
+#### Wireframe
+[Wireframe PDF](https://github.com/Laurent-Bosteels/client-project/blob/main/wireframe/Wireframe.pdf)
+
+#### UML
+[Simplified UML Diagram](https://github.com/Laurent-Bosteels/client-project/blob/main/uml-diagram/Use%20case%20diagram.pdf)
+
 #### Mockup landing page (desktop version)
 ![screenshot](https://github.com/Laurent-Bosteels/client-project/blob/main/mockup/desktop/Mockup_1.png?raw=true)
 ![screenshot](https://github.com/Laurent-Bosteels/client-project/blob/main/mockup/desktop/Mockup_2.png?raw=true)
@@ -39,6 +48,20 @@ This website will look a lot like [hellofresh](https://hellofresh.com/)
 #### Mockup landing page (mobile version)
 ![screenshot](https://github.com/Laurent-Bosteels/client-project/blob/main/mockup/mobile/mockup_1.png?raw=true)
 ![screenshot](https://github.com/Laurent-Bosteels/client-project/blob/main/mockup/mobile/mockup_2.png?raw=true)
+
+#### Mockup landing page PDF version (desktop + mobile)
+[Landing page PDF](https://github.com/Laurent-Bosteels/client-project/blob/main/project-briefing/project-briefing.pdf)
+
+#### OlaFresco packaging mockup
+![screenshot](https://github.com/Laurent-Bosteels/client-project/blob/main/assets/olafresco_box.png?raw=true)
+
+#### Extra notes
+This is still a work in progress, as things may be added or deleted in the future.
+
+
+
+
+
 
 
 
